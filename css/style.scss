@@ -1,4 +1,4 @@
-$white: #ffffff;
+$white: #e2e7e9;
 $black: #000000;
 $primary1: #f07b26;
 $primary2: #252525;
@@ -790,7 +790,7 @@ a:focus {
       .client_name {
         h5 {
           font-weight: bold;
-          color: $primary2;
+          color: $white;
           margin-bottom: 0;
           text-transform: uppercase;
         }
